@@ -1,7 +1,7 @@
 ----------Engineer----------
 st_menu_technician_sentry = "",--Engineer
 menu_defense_up_beta = "",--Defense Up
-menu_defense_up_beta_desc = "BASIC: ##$basic;##$NL;เวลาในการติดตั้งป้อมปืนลดลง ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;ป้อมปืนของคุณจะติดเกราะกำบัง.",--BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced to ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain a protective shield.
+menu_defense_up_beta_desc = "พื้นฐาน: ##$basic;##$NL;เวลาในการติดตั้งป้อมปืนลดลง ##$multibasic;##.$NL;$NL;ขั้นสูง: ##$pro;##$NL;ป้อมปืนของคุณจะติดเกราะกำบัง.",--BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced to ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain a protective shield.
 menu_sentry_targeting_package_beta = "",--Sentry Targeting Package
 menu_sentry_targeting_package_beta_desc = "BASIC: ##$basic;##$NL;ป้อมปืนของคุณจะยิงแม่นขึ้น ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;ป้อมปืนของคุณจะหมุนตัวเองไวขึ้น ##$multipro;##. ป้อมปืนของคุณจะได้รับกระสุนเพิ่มขึ้นอีก  ##$multipro2;##.",--BASIC: ##$basic;##$NL;Your sentry guns gain a ##$multibasic;## increase in accuracy.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns rotation speed is increased by ##$multipro;##. Your sentry guns also have  ##$multipro2;## more ammunition.
 menu_eco_sentry_beta = "",--Eco Sentry
