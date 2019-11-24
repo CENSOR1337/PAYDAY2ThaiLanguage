@@ -1,0 +1,12 @@
+menu_st_spec_3 = "",--Armorer
+menu_st_spec_3_desc = "The Armorer was formerly a profession within the military. The armorer's job is to maintain, repair and improve armors.$NL;$NL;Any self-respecting crime syndicate needs someone who can make sure the soldiers have the necessary protection to do their jobs.",--The Armorer was formerly a profession within the military. The armorer's job is to maintain, repair and improve armors.$NL;$NL;Any self-respecting crime syndicate needs someone who can make sure the soldiers have the necessary protection to do their jobs.
+menu_deck3_1 = "",--Type I Armor
+menu_deck3_1_desc = "เพิ่มเกราะอีก  ##$multiperk;## ให้กับผู้เล่น",--You gain ##$multiperk;## more armor.
+menu_deck3_3 = "",--Type II Armor
+menu_deck3_3_desc = "เพิ่มเกราะอีก  ##$multiperk;## ให้กับผู้เล่น",--You gain an additional ##$multiperk;## more armor.
+menu_deck3_5 = "",--Type III Armor
+menu_deck3_5_desc = "เพิ่มเกราะอีก  ##$multiperk;## ให้กับผู้เล่น",--You gain an additional ##$multiperk;## more armor.
+menu_deck3_7 = "",--Reinforced Armor
+menu_deck3_7_desc = "อัตราการฟื้นฟูเกราะเพิ่มขึ้นอีก  ##$multiperk;##",--Your armor recovery rate is increased by ##$multiperk;##.
+menu_deck3_9 = "",--Liquid Armor
+menu_deck3_9_desc = "เพิ่มเกราะอีก  ##$multiperk;## ให้กับผู้เล่น$NL;$NL;ลดเวลาดีเลย์ในการฟื้นฟูเกราะให้กับผู้เล่นและสมาชิกภายในทีมอีก  ##$multiperk2;##$NL;$NL;ข้อควรระวัง : ความสามารถพิเศษของทีมไม่สามารถใช้ซ้อนเพื่อเพิ่มความสามารถจากเดิมได้$NL;$NLโบนัสเมื่ออัพความสามารถพิเศษนี้ตัน: โอกาสที่จะได้รับไอเท็มระดับสูงในการเปิดการ์ด PAYDAY เพิ่มขึ้นอีก ##$multiperk3;##.",--You gain an additional ##$multiperk;## more armor.$NL;$NL;Reduces the armor recovery time for you and your crew by ##$multiperk2;##.$NL;$NL;Note: Crew perks do not stack.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by ##$multiperk3;##.

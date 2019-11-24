@@ -1,0 +1,8 @@
+menu_deckall_2 = "",--Helmet Popping
+menu_deckall_2_desc = "เพิ่มความรุนแรงเมื่อยิงถูกหัวของศัตรูอีก  ##$multiperk;##",--Increases your headshot damage by ##$multiperk;##.
+menu_deckall_4 = "",--Blending In
+menu_deckall_4_desc = "เพิ่มค่าอำพราง  ##$multiperk;## ให้กับผู้เล่น$NL;$เมื่อสวมใส่ชุดเกราะ, ลดความเร็วในการเคลื่อนไหว  ##$multiperk2;## จากปกติNL;ได้รับค่าประสบการณ์เพิ่มอีก  ##$multiperk3;## เมื่อเสร็จสิ้นภารกิจระหว่างวันหรือทั้งหมด",--You gain ##$multiperk;## increased concealment.$NL;$NL;When wearing armor, your movement speed is ##$multiperk2;## less affected.$NL;$NL;You gain ##$multiperk3;## more experience when you complete days and jobs.
+menu_deckall_6 = "",--Walk-in Closet
+menu_deckall_6_desc = "ปลดล็อคกระเป๋าใส่ชุดเกราะให้สามารถใช้งานได้ โดยกระเป๋าชุดเกราะจะทำให้ผู้เล่นสามารถเปลี่ยนใส่ชุดเกราะที่เตรียมมาได้ระหว่างการปล้น$NL;$NL;เพิ่มจำนวนกระสุนที่เก็บได้อีก  ##$multiperk;## จากปกติ",--Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.$NL;$NL;Increases your ammo pickup to ##$multiperk;## of the normal rate.
+menu_deckall_8 = "",--Fast and Furious
+menu_deckall_8_desc = "สร้างความเสียหายเพิ่มอีก  ##$multiperk;## จากปกติ ไม่รวมอาวุธระยาประชิด $NL;$NL;เพิ่มความเร็วในการใช้งานกระเป๋าแพทย์อีก  ##$multiperk2;##",--You do ##$multiperk;## more damage. Does not apply to melee damage.$NL;$NL;Increases your doctor bag interaction speed by ##$multiperk2;##.

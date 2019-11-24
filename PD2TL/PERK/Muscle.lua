@@ -1,0 +1,12 @@
+menu_st_spec_2 = "",--Muscle
+menu_st_spec_2_desc = "The Muscle is a tough guy who uses violence to send messages from his Mafia superiors. They are the backbone of any criminal organization.$NL;$NL;The muscle is called in whenever you need to rough someone up, break some legs, crush a skull or remind people who's boss.",--The Muscle is a tough guy who uses violence to send messages from his Mafia superiors. They are the backbone of any criminal organization.$NL;$NL;The muscle is called in whenever you need to rough someone up, break some legs, crush a skull or remind people who's boss.
+menu_deck2_1 = "",--Brute Strength
+menu_deck2_1_desc = "เพิ่มพลังชีวิตอีก ##$multiperk;## ให้กับผู้เล่น",--You gain ##$multiperk;## more health.
+menu_deck2_3 = "",--Meat Shield
+menu_deck2_3_desc = "เพิ่มโอกาส  ##$multiperk;## ที่จะตกเป็นเป้าหมายจากศัตรูเมื่ออยู่ใกล้กับสมาชิกภายในทีม$NL;$NL;เพิ่มพลังชีวิตอีก  ##$multiperk2;## ให้กับผู้เล่น",--You are ##$multiperk;## more likely to be targeted when you are close to your crew members.$NL;$NL;You gain ##$multiperk2;## more health.
+menu_deck2_5 = "",--Giant Strength
+menu_deck2_5_desc = "เพิ่มพลังชีวิตอีก  ##$multiperk;## ให้กับผู้เล่น",--You gain an additional ##$multiperk;## more health.
+menu_deck2_7 = "",--Disturbing the Peace
+menu_deck2_7_desc = "ผู้เล่นสามารถใช้ปืนกลหนัก, ปืนกลเล็ก และสไนเปอร์ไรเฟิล ยิงเพื่อสร้างความหวาดกลัวแก่ศัตรูได้$NL;$NL;ความหวาดกลัวที่สร้างขึ้นจะทำให้ศัตรูไม่สามารถควบคุมตนเองได้ชั่วขณะ",--You can use light machine guns, submachine guns and sniper rifles to spread panic among your enemies.$NL;$NL;Panic will make enemies go into short bursts of uncontrollable fear.
+menu_deck2_9 = "",--800-pound Gorilla
+menu_deck2_9_desc = "เพิ่มพลังชีวิตอีก  ##$multiperk;## ให้กับผู้เล่น$NL;$NL;โบนัสเมื่ออัพความสามารถพิเศษนี้ตัน: โอกาสที่จะได้รับไอเท็มระดับสูงในการเปิดการ์ด PAYDAY เพิ่มขึ้นอีก ##$multiperk2;##.",--You gain an additional ##$multiperk;## more health.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by ##$multiperk2;##.

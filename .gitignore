@@ -1,0 +1,26 @@
+*
+
+!.gitignore
+
+# Except for PD2TL folder
+
+!/PD2TL/
+!/PD2TL/*
+!/PD2TL/*/*
+
+# Except for Mod Overrides folder
+!/assets/
+!/assets/*/
+!/assets/mod_overrides/
+!/assets/mod_overrides/*/
+!/assets/mod_overrides/ThaiFont/*/
+!/assets/mod_overrides/ThaiFont/fonts/*
+
+
+# Except for BLT folder
+!/mods/
+!/mods/*/
+!/mods/PD2TH/
+!/mods/PD2TH/*
+!/mods/PD2TH/*/*
+!/mods/PD2TH/*/*/*
