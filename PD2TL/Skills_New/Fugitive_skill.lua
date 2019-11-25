@@ -1,11 +1,11 @@
 ----------Gunslinger----------
-st_menu_fugitive_pistol_akimbo = "หน่วยปืนพก",--Gunslinger
+st_menu_fugitive_pistol_akimbo = "",--Gunslinger
 menu_equilibrium_beta = "",--Equilibrium
-menu_equilibrium_beta_desc = "BASIC: ##$basic;##$NL;ลดระยะเวลาในการชักปืนพกออกมา ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;คุณได้รับค่าความแม่นยำเพิ่มขึ้น ##$multipro2;## หน่วย ให้กับปืนพกทุกกระบอก.",--BASIC: ##$basic;##$NL;ลดระยะเวลาในการชักปืนพกออกมา ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;คุณได้รับค่าความแม่นยำเพิ่มขึ้น ##$multipro2;## หน่วย ให้กับปืนพกทุกกระบอก.
+menu_equilibrium_beta_desc = "BASIC: ##$basic;##$NL;ลดระยะเวลาในการชักปืนพกออกมา ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;คุณได้รับค่าความแม่นยำเพิ่มขึ้น ##$multipro2;## หน่วย$NL;ให้กับปืนพกทุกกระบอก.",--BASIC: ##$basic;##$NL;Decreases the time it takes to draw and holster pistols by ##$multibasic3;##.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro2;## weapon accuracy with all pistols.
 menu_dance_instructor = "",--Gun Nut
-menu_dance_instructor_desc = "BASIC: ##$basic;##$NL;เพิ่มความจุกระสุนในแม็กกาซีนของปืนพกขึ้น ##$multibasic;## นัด .$NL;$NL;ACE: ##$pro;##$NL;ค่าความเร็วในการยิงของปืนพกเพิ่มขึ้น ##$multipro;## .",--BASIC: ##$basic;##$NL;เพิ่มความจุกระสุนในแม็กกาซีนของปืนพกขึ้น ##$multibasic;## นัด .$NL;$NL;ACE: ##$pro;##$NL;ค่าความเร็วในการยิงของปืนพกเพิ่มขึ้น ##$multipro;## .
+menu_dance_instructor_desc = "BASIC: ##$basic;##$NL;เพิ่มความจุกระสุนในแม็กกาซีนของปืนพกขึ้น ##$multibasic;## นัด.$NL;$NL;ACE: ##$pro;##$NL;ความเร็วการลั่นกระสุนเพิ่มขึ้น ##$multipro;##.",--BASIC: ##$basic;##$NL;Your pistol magazine sizes are increased by ##$multibasic;## bullets.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## increased rate of fire with pistols.
 menu_akimbo_skill_beta = "",--Akimbo
-menu_akimbo_skill_beta_desc = "BASIC: ##$basic;##$NL;ค่าความมั่นคงของปืนจำพวกปืนคู่ลดลง ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;ค่าความมั่นคงของปืนจำพวกปืนคู่ลดลงเป็น ##$multipro3;## และเพิ่มจำนวนกระสุนสูงสุดขึ้นอีก ##$multipro4;##.",--BASIC: ##$basic;##$NL;ค่าความมั่นคงของปืนจำพวกปืนคู่ลดลง ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;ค่าความมั่นคงของปืนจำพวกปืนคู่ลดลงเป็น ##$multipro3;## และเพิ่มจำนวนกระสุนสูงสุดขึ้นอีก ##$multipro4;##.
+menu_akimbo_skill_beta_desc = "BASIC: ##$basic;##$NL;ลดอัตราการสั่นของอาวุธคู่ ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;ลดอัตราการสั่นของอาวุธคู่เพิ่มขึ้นอีก ##$multipro3;## $NL;และเพิ่มจำนวนกระสุนสูงสุดขึ้นอีก ##$multipro4;##.",--BASIC: ##$basic;##$NL;Your Akimbo weapons' stability penalty is reduced by ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;Your Akimbo weapons' stability penalty is reduced by an additional ##$multipro3;## and they also have a ##$multipro4;## increased ammo capacity.
 menu_gun_fighter_beta = "",--Custom Ammo
 menu_gun_fighter_beta_desc = "BASIC: ##$basic;##$NL;ค่าความเสียหายของปืนพกทุกกระบอก$NL;เพิ่มขึ้น ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;ค่าความเสียหายของปืนพกทุกกระบอก$NL;เพิ่มขึ้นอีกเป็น ##$multipro2;## หน่วย.",--BASIC: ##$basic;##$NL;ค่าความเสียหายของปืนพกทุกกระบอกเพิ่มขึ้น ##$multibasic2;##.$NL;$NL;ACE: ##$pro;##$NL;ค่าความเสียหายของปืนพกทุกกระบอกเพิ่มขึ้นอีกเป็น ##$multipro2;## หน่วย.
 menu_expert_handling = "",--Desperado
@@ -13,7 +13,7 @@ menu_expert_handling_desc = "BASIC: ##$basic;##$NL;ทุก ๆ การยิ
 menu_trigger_happy_beta = "",--Trigger Happy
 menu_trigger_happy_beta_desc = "BASIC: ##$basic;##$NL;ทุก ๆ นัดที่ยิงเข้าเป้าจะได้รับโบนัสความเสียหาย ##$multibasic4;## หน่วย เป็นระยะเวลา ##$multibasic2;## วินาที และสามารถทับกันได้สูงสุด ##$multibasic3;## ครั้ง .$NL;$NL;ACE: ##$pro;##$NL;ระยะเวลาของโบนัสความเสสียหายเพิ่มขึ้นเป็น ##$multipro2;## วินาที.",--BASIC: ##$basic;##$NL;ทุก ๆ นัดที่ยิงเข้าเป้าจะได้รับโบนัสความเสียหาย ##$multibasic4;## หน่วย เป็นระยะเวลา ##$multibasic2;## วินาที และสามารถทับกันได้สูงสุด ##$multibasic3;## ครั้ง .$NL;$NL;ACE: ##$pro;##$NL;ระยะเวลาของโบนัสความเสสียหายเพิ่มขึ้นเป็น ##$multipro2;## วินาที.
 ----------Relentless----------
-st_menu_fugitive_undead = "หน่วยทรหด",--Relentless
+st_menu_fugitive_undead = "",--Relentless
 menu_nine_lives_beta = "",--Nine Lives
 menu_nine_lives_beta_desc = "BASIC: ##$basic;##$NL;พลังชีวิตขณะที่ล้มเพิ่มขึ้นอีก ##$multibasic2;## .$NL;$NL;ACE: ##$pro;##$NL;สามารถล้มเพิ่มขึ้นได้จากปรติอีก ##$multipro2;## ก่อนจะต้องติดคุก.",--BASIC: ##$basic;##$NL;พลังชีวิตขณะที่ล้มเพิ่มขึ้นอีก ##$multibasic2;## .$NL;$NL;ACE: ##$pro;##$NL;สามารถล้มเพิ่มขึ้นได้จากปรติอีก ##$multipro2;## ก่อนจะต้องติดคุก.
 menu_running_from_death_beta = "",--Running From Death
@@ -27,7 +27,7 @@ menu_feign_death_desc = "BASIC: ##$basic;##$NL;เมื่อคุณล้ม
 menu_pistol_beta_messiah = "",--Messiah
 menu_pistol_beta_messiah_desc = "BASIC: ##$basic;##$NL;ในขณะที่ล้มอยู่ คุณสามารถลุกขึ้นได้ทันทีโดยการฆ่าศัตรู แต่จะสามารทำได้แค่ ##$multibasic;## ครั้งเท่านั้น.$NL;$NL;ACE: ##$pro;##$NL;การฟื้นฟูเลือดด้วย Doctor Bag จะช่วยฟื้นฟูชาร์จของสกิล.",--BASIC: ##$basic;##$NL;ในขณะที่ล้มอยู่ คุณสามารถลุกขึ้นได้ทันทีโดยการฆ่าศัสตรู แต่จะสามารทำได้แค่ ##$multibasic;## ครั้งเท่านั้น.$NL;$NL;ACE: ##$pro;##$NL;การฟื้นฟูเลือดด้วย Doctor Bag จะช่วยฟื้นฟูชาร์จของสกิล.
 ----------Brawler----------
-st_menu_fugitive_berserker = "หน่วยข่มขู่",--Brawler
+st_menu_fugitive_berserker = "",--Brawler
 menu_martial_arts_beta = "",--Martial Arts
 menu_martial_arts_beta_desc = "BASIC:##$basic;##$NL;คุณได้รับความเสียหายระยะประชิดลดลง ##$multibasic;## จากการฝึกฝนอย่างหนัก.$NL;$NL;ACE: ##$pro;##$NL;การโจมตีประชิดจะเพิ่มโอกาศในการทำให้$NL;ศัตรูล้มเพิ่มขึ้น ##$multipro;## .",--BASIC:##$basic;##$NL;คุณได้รับความเสียหายระยะประชิดลดลง ##$multibasic;## จากการฝึกฝนอย่างหนัก.$NL;$NL;ACE: ##$pro;##$NL;การโจมตีประชิดจะเพิ่มโอกาศในการทำให้ศัสตรูล้มเพิ่มขึ้น ##$multipro;## .
 menu_bloodthirst = "",--Bloodthirst
