@@ -19,5 +19,15 @@
 			"hook_id" : "lib/utils/lightloadingscreenguiscript",
 			"script_path" : "thai/LightLoadingScreenGuiScript.lua"
 		}
-    ]
+    ],
+	"updates" : [
+    {
+        "identifier" : "3.0.1",
+        "host": {
+            "meta": "https://censor1337.github.io/PAYDAY2ThaiLanguage/PAYDAY2_thai_updates_property/meta.json",
+            "download": "https://censor1337.github.io/PAYDAY2ThaiLanguage/PAYDAY2_thai_updates_property/PD2TH.zip",
+            "patchnotes": "https://censor1337.github.io/PAYDAY2ThaiLanguage/index.html"
+        }
+    }
+]
 }
