@@ -1,7 +1,5 @@
 Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", function(self)
 	local texts = {}
-	UseNewVersion = true
-
 --[[
 			--------------- Work in Procress ---------------
 		local file_names = {
