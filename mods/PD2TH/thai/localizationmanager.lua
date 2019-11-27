@@ -3,6 +3,7 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 	UseNewVersion = true
 
 --[[
+			--------------- Work in Procress ---------------
 		local file_names = {
 			"mods/PD2TH/localization_new/systemmenu.lua",
 			"mods/PD2TH/localization_new/savefile.lua",
@@ -13,7 +14,7 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization_new/skills/mastermind_skill.lua",
 			"mods/PD2TH/localization_new/skills/technician_skill.lua",
 		}
-	]]--
+]]--
 		local file_names = {
 			"mods/PD2TH/localization/contact/Framing_Frame.lua",
 			"mods/PD2TH/localization/Custom_Music/Bank_Heist.lua",
