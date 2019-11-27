@@ -6,16 +6,6 @@
 	"version" : "3.0.1",
 	"blt_version" : 2,
 	"image" : "PD2TL.png",
-	"updates" : [
-    {
-        "identifier" : "3.0.1",
-        "host": {
-            "meta": "https://example.com/my_meta.json",
-            "download": "https://example.com/download.zip",
-            "patchnotes": "https://example.com/patchnotes.html"
-        }
-    }
-	],
     "hooks" : [
         {   
             "hook_id" : "lib/managers/localizationmanager",
