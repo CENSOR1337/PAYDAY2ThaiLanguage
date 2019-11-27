@@ -4,9 +4,10 @@
 
 # Except for PD2TL folder
 
-!/PD2TL/
-!/PD2TL/*
-!/PD2TL/*/*
+!/PAYDAY2_thai_updates_property/
+!/PAYDAY2_thai_updates_property/*
+
+
 
 # Except for Mod Overrides folder
 !/assets/
