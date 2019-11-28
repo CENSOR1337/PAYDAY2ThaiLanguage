@@ -1,2 +1,2 @@
-python blt_hasher.py "%cd%/mods/PD2TH"
+python blt_hasher.py "%cd%/PD2TH"
 pause
