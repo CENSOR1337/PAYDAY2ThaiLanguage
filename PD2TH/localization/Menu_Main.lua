@@ -55,3 +55,8 @@ menu_challenge_new = "งานพิเศษ",--Side Jobs
 pd2stats_players_button = "เช็คสถานะผู้เล่น",--Player
 debug_chat_say = "พูดคุย:",--Chat:
 menu_cn_quickplay = "หาห้องเล่นอย่างรวดเร็ว",--QuickPlay
+cn_menu_community = "ศูนย์กลางชุมชน",--Community
+menu_visit_forum_help = "มาพูดคุยกับนักปล้นอื่นๆและกระดานพูดคุยที่ดีที่สุดในโลกใบนี้",--Come talk to us at OVERKILL and the other heisters in the best forum on earth.
+menu_movie_theater = "คลังวิดีโอ",--Movie Theater
+menu_movie_theater_help = "เปิดคลังวิดีโอ",--Open The Movie Theater.
+
