@@ -27,24 +27,8 @@ def hashit(file, block_size=65536):
             hash.update(line)
     return hash.hexdigest()
     
-# Zip Function
-def zipdir(path, ziph):
-    # ziph is zipfile handle
-    for root, dirs, files in os.walk(path):
-        for file in files:
-            ziph.write(os.path.join(root, file))
     
 if __name__ == "__main__":
-
-
-
-
-    zipf = zipfile.ZipFile('PAYDAY2_thai_updates_property/PD2TH.zip', 'w', zipfile.ZIP_DEFLATED)
-    zipdir('PD2TH/', zipf)
-    zipf.close()
-
-
-
 
     import argparse
     hash = ''
