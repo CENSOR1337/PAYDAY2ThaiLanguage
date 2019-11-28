@@ -23,11 +23,11 @@
     ],
 	"updates" : [
     {
-        "identifier" : "PAYDAY2ThaiLanguage",
+        "identifier" : "PD2TH",
         "host": {
             "meta": "https://censor1337.github.io/PAYDAY2ThaiLanguage/PAYDAY2_thai_updates_property/meta.json",
             "download": "https://censor1337.github.io/PAYDAY2ThaiLanguage/PAYDAY2_thai_updates_property/PD2TH.zip",
-            "patchnotes": "https://censor1337.github.io/PAYDAY2ThaiLanguage/index.html"
+            "patchnotes": "https://censor1337.github.io/PAYDAY2ThaiLanguage/"
         }
     }
 ]
