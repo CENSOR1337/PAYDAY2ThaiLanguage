@@ -1,0 +1,15 @@
+prop_timer_gui_start = "เริ่มเจาะ",--START DRILLING
+prop_timer_gui_working = "กำลังเจาะ",--DRILLING IN PROGRESS
+prop_timer_gui_seconds = "วินาที",--SECONDS
+prop_timer_gui_malfunction = "// เครื่องเจาะหยุดงาน //",--// DRILL JAMMED //
+prop_timer_gui_error = "// ผิดพลาด //",--// ERROR //
+prop_timer_gui_done = "เจาะเสร็จสิ้น",--DRILLING COMPLETED
+prop_timer_gui_estimated_time = "เสร็จสิ้นภายใน",--ESTIMATED TIME REMAINING
+prop_computer_gui_analyzing = "กำลังวิเคราะห์",--Analyzing
+prop_timer_gui_start = "เริ่มต้นเจาะ",--START DRILLING
+prop_timer_hack_ipad_gui_done = "เสร็จสิ้น",--COMPLETED
+prop_timer_hack_ipad_gui_malfunction = "// ผิดพลาด //",--// ERROR //
+prop_timer_saw_gui_working = "กำลังเลื่อย",--SAWING IN PROGRESS
+prop_timer_upload_gui_working = "กำลังอัพโหลด...",--UPLOADING...
+prop_timer_hack_ipad_gui_working = "กำลังเจาะระบบ",--ACCESSING...
+menu_pp_cat_data_hacking = "กำลังเจาะระบบ",--Hacking

@@ -1,0 +1,12 @@
+menu_st_spec_4 = "",--Rogue
+menu_st_spec_4_desc = "The Rogue is a stealthy criminal, capable of sneaky tricks and deadly force. Versatile and deceptive, the Rogue is hired to do anything from pickpocketing, to burglaries and con jobs.$NL;$NL;The trademark of a Rogue is his versatility - what he lacks in strength he makes up for in skill.",--The Rogue is a stealthy criminal, capable of sneaky tricks and deadly force. Versatile and deceptive, the Rogue is hired to do anything from pickpocketing, to burglaries and con jobs.$NL;$NL;The trademark of a Rogue is his versatility - what he lacks in strength he makes up for in skill.
+menu_deck4_1 = "",--Subtle
+menu_deck4_1_desc = "เพิ่มโอกาสในการหลบหลีกขึ้นอีก  ##$multiperk;##",--Your chance to dodge is increased by ##$multiperk;##.
+menu_deck4_3 = "",--Elusive
+menu_deck4_3_desc = "ลดโอกาส  ##$multiperk;## ที่จะตกเป็นเป้าหมายจากศัตรูเมื่ออยู่ใกล้กับสมาชิกภายในทีม",--You are ##$multiperk;## less likely to be targeted when you are close to your crew members.
+menu_deck4_5 = "",--Evasive
+menu_deck4_5_desc = "เพิ่มโอกาสในการหลบหลีกขึ้นอีก ##$multiperk;##",--Your chance to dodge is increased by an additional ##$multiperk;##.
+menu_deck4_7 = "",--Shadow Warrior
+menu_deck4_7_desc = "เพิ่มโอกาสในการหลบหลีกขึ้นอีก ##$multiperk;##",--Your chance to dodge is increased by an additional ##$multiperk;##.
+menu_deck4_9 = "",--Killer Instinct
+menu_deck4_9_desc = "อาวุธทุกชนิดมีโอกาส  ##$multiperk;## ที่จะเจาะทะลุเกราะของศัตรูได้$NL;$NL;เวลาระหว่างการสลับอาวุธลดลง  ##$multiperk2;##$NL;$NL;โบนัสเมื่ออัพความสามารถพิเศษนี้ตัน: โอกาสที่จะได้รับไอเท็มระดับสูงในการเปิดการ์ด PAYDAY เพิ่มขึ้นอีก ##$multiperk3;##.",--All your weapons have a ##$multiperk;## chance to pierce enemy armor.$NL;$NL;Increases weapon swapping speed by ##$multiperk2;##.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by ##$multiperk3;##.

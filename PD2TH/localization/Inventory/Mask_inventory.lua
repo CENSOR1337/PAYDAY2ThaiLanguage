@@ -1,0 +1,16 @@
+bm_menu_btn_buy_selected_mask = "เอาหน้ากากมาใช้งาน",--Assemble mask
+bm_menu_btn_buy_new_mask = "ซื้อหน้ากากอันใหม่",--Buy new mask
+bm_menu_btn_equip_mask = "ใช้งานหน้ากาก",--Equip mask
+bm_menu_btn_mod_mask = "ปรับแต่งหน้ากาก",--Customize mask
+bm_menu_btn_preview_mask = "ตรวจลักษณะของหน้ากาก",--Preview mask
+bm_menu_btn_remove_mask = "นำหน้ากากกลับคืนคลัง",--Return mask
+bm_menu_btn_sell_mask = "ขายหน้ากาก",--Sell mask
+bm_menu_btn_move_mask = "ย้ายช่องหน้ากาก",--Move Mask
+bm_menu_btn_swap_mask = "สลับช่องหน้ากาก",--Swap Mask
+bm_menu_btn_place_mask = "วางหน้ากาก",--Place Mask
+bm_menu_btn_buy_mask_slot = "ปลดล็อกช่องสำหรับใส่หน้ากาก",--Unlock mask Slot
+bm_menu_choose_color = "เลือกสี",--Choose color
+bm_menu_choose_pattern = "เลือกลาย",--Choose pattern
+bm_menu_choose_material = "เลือกพื้นผิว",--Choose material
+bm_menu_btn_choose_mask_mod = " เลือก $type;",--Choose $type;
+bm_menu_btn_customize_mask = "เสร็จสิ้นการปรับแต่ง",--Finalize mask
