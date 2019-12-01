@@ -14,9 +14,37 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 		}
 ]]--
 		local file_names = {
-			"mods/PD2TH/localization/contact/Framing_Frame.lua",
-			"mods/PD2TH/localization/Custom_Music/Bank_Heist.lua",
-			"mods/PD2TH/localization/contact/Hoxton_Breakout.lua",
+			---------------------------- Skills ----------------------------
+			"mods/PD2TH/localization/Skills_New/Mastermind_skill.lua",
+			"mods/PD2TH/localization/Skills_New/Enforcer_skill.lua",
+			"mods/PD2TH/localization/Skills_New/Technician_skill.lua",
+			"mods/PD2TH/localization/Skills_New/Ghost_skill.lua",
+			"mods/PD2TH/localization/Skills_New/Fugitive_skill.lua",
+			"mods/PD2TH/localization/Skills_New/Skill_info.lua",
+			---------------------------- Perk Deck ----------------------------
+			"mods/PD2TH/localization/PERK/Armorer.lua",
+			"mods/PD2TH/localization/PERK/Burglar.lua",
+			"mods/PD2TH/localization/PERK/Crew-Chief.lua",
+			"mods/PD2TH/localization/PERK/Crook.lua",
+			"mods/PD2TH/localization/PERK/Ex_president.lua",
+			"mods/PD2TH/localization/PERK/Gambler.lua",
+			"mods/PD2TH/localization/PERK/Grinder.lua",
+			"mods/PD2TH/localization/PERK/Hitman.lua",
+			"mods/PD2TH/localization/PERK/Infiltrator.lua",
+			"mods/PD2TH/localization/PERK/Muscle.lua",
+			"mods/PD2TH/localization/PERK/Perk_all.lua",
+			"mods/PD2TH/localization/PERK/Perk_info.lua",
+			"mods/PD2TH/localization/PERK/Rogue.lua",
+			"mods/PD2TH/localization/PERK/Sociopath.lua",
+			"mods/PD2TH/localization/PERK/Yakuza.lua",
+			---------------------------- Contact ----------------------------
+			---- Bain ----
+			"mods/PD2TH/localization_new/contact/bain/bank_heist.lua",
+			---- The Elephant ----
+			"mods/PD2TH/localization_new/contact/the_elephant/framing_frame.lua",
+			---- The Dentist ----
+			"mods/PD2TH/localization_new/contact/the_dentist/hoxton_breakout.lua",
+			---------------------------- old update soon ----------------------------
 			"mods/PD2TH/localization/SafeHouse/Trophies.lua",
 			"mods/PD2TH/localization/SafeHouse/Menu.lua",
 			"mods/PD2TH/localization/achievement.lua",
@@ -58,27 +86,6 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/INVENTORY/Melee_Weapon.lua",
 			"mods/PD2TH/localization/INVENTORY/Stat.lua",
 			"mods/PD2TH/localization/INVENTORY/Throw.lua",
-			"mods/PD2TH/localization/PERK/Armorer.lua",
-			"mods/PD2TH/localization/PERK/Burglar.lua",
-			"mods/PD2TH/localization/PERK/Crew-Chief.lua",
-			"mods/PD2TH/localization/PERK/Crook.lua",
-			"mods/PD2TH/localization/PERK/Ex_president.lua",
-			"mods/PD2TH/localization/PERK/Gambler.lua",
-			"mods/PD2TH/localization/PERK/Grinder.lua",
-			"mods/PD2TH/localization/PERK/Hitman.lua",
-			"mods/PD2TH/localization/PERK/Infiltrator.lua",
-			"mods/PD2TH/localization/PERK/Muscle.lua",
-			"mods/PD2TH/localization/PERK/Perk_all.lua",
-			"mods/PD2TH/localization/PERK/Perk_info.lua",
-			"mods/PD2TH/localization/PERK/Rogue.lua",
-			"mods/PD2TH/localization/PERK/Sociopath.lua",
-			"mods/PD2TH/localization/PERK/Yakuza.lua",
-			"mods/PD2TH/localization/Skills_New/Mastermind_skill.lua",
-			"mods/PD2TH/localization/Skills_New/Enforcer_skill.lua",
-			"mods/PD2TH/localization/Skills_New/Technician_skill.lua",
-			"mods/PD2TH/localization/Skills_New/Ghost_skill.lua",
-			"mods/PD2TH/localization/Skills_New/Fugitive_skill.lua",
-			"mods/PD2TH/localization/Skills_New/Skill_info.lua",
 		}
 
 

@@ -59,4 +59,3 @@ cn_menu_community = "ศูนย์กลางชุมชน",--Community
 menu_visit_forum_help = "มาพูดคุยกับนักปล้นอื่นๆและกระดานพูดคุยที่ดีที่สุดในโลกใบนี้",--Come talk to us at OVERKILL and the other heisters in the best forum on earth.
 menu_movie_theater = "คลังวิดีโอ",--Movie Theater
 menu_movie_theater_help = "เปิดคลังวิดีโอ",--Open The Movie Theater.
-
