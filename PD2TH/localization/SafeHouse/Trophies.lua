@@ -1,7 +1,7 @@
 menu_cs_trophies = "รางวัล",--
 menu_trophy_displayed = "ประดับไว้เรียบร้อยแล้ว",--
 menu_trophy_display_all = "แสดงผลทั้งหมด",--
-menu_trophy_hide_all = "หยุดแสดงผลทั้งหมด",--
+menu_trophy_hide_all = "เลิกประดับทั้งหมด",--
 menu_trophy_not_displayed = "เก็บไว้อยู่ในคลัง",--
 menu_unlock_condition = "เงื่อนไขในการปลดล็อค",--
 menu_cn_chill = "เซฟเฮ้าส์",--
@@ -36,7 +36,7 @@ trophy_goat_objective = "ส่งแพะไปแล้ว $max_progress; ใ
 trophy_tiara_desc = "ดูสวยดีเนี่ย ใครใส่มันเนี่ย",--It's a real beauty. Who's gonna wear it?
 trophy_jfk_desc = "สไนเปอร์ ไรเฟิล บางคนประมาทความสามารถของมัน",--A sniper rifle. Some people really underestimate the possibilities of it.
 trophy_dozer_helmet_progress = "ฆ่าศัตรูแบบพิเศษไปแล้ว",--Special Units Killed
-trophy_jfk_objective = "จบการปล้นด่าน Undercover ในระดับ Overkill หรือสูงกว่านั้น โดยทั้งทีม 4 คน ใช้ปืน Sniper เท่านั้น ห้ามอัพ Skill และใส่สูทเท่านั้น",--Complete the Undercover heist on the OVERKILL difficulty or above with each crew member using only sniper rifles no skills and wearing the Two-Piece Suit.
+trophy_jfk_objective = "จบการปล้นด่าน Undercover ในระดับ Overkill หรือสูงกว่านั้น โดยทั้งทีม 4 คน ใช้ปืน Sniper เท่านั้น ห้ามใช้งานความสามารถใดๆทั้งสิ้นและใส่สูทเท่านั้น",--Complete the Undercover heist on the OVERKILL difficulty or above with each crew member using only sniper rifles no skills and wearing the Two-Piece Suit.
 trophy_tfturret_desc = "เราขโมยสิ่งนี้มาจากรถไฟ มันไม่ง่ายแต่มันอยู่ที่นี่แล้วดูดีมากเลย",--You stole this from a train. It wasn't easy but damn it looks good here.
 trophy_washington_desc = "นี่คือรูปปั้นแห่งความสุดยอดและโด่งดังสำหรับนักฆ่า",--A statue of a great and infamous cop killer.
 trophy_dartboard_desc = "ใช้มันเพื่อแสดงความแม่นยำในการปาอาวุธที่ไม่สามารถเทียบได้ ไม่นับลูกระเบิดนะ",--Use it to display your unmatched throwing accuracy. Grenades don't count.
