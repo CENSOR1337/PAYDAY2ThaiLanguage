@@ -85,7 +85,7 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/INVENTORY/Melee_Weapon.lua",
 			"mods/PD2TH/localization/INVENTORY/Stat.lua",
 			"mods/PD2TH/localization/INVENTORY/Throw.lua",
-			"mods/PD2TH/localization_new/menu.lua",
+			--"mods/PD2TH/localization_new/menu.lua",
 		}
 
 
