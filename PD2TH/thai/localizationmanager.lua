@@ -63,6 +63,7 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/Menu_Inventory.lua",
 			"mods/PD2TH/localization/menu_lobby.lua",
 			"mods/PD2TH/localization/menu_lobby_filters.lua",
+			"mods/PD2TH/localization/Menu_Main.lua",
 			"mods/PD2TH/localization/Menu_Option.lua",
 			"mods/PD2TH/localization/Menu_Option_Control.lua",
 			"mods/PD2TH/localization/Menu_Option_Control_EditKey.lua",
@@ -85,7 +86,6 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/INVENTORY/Stat.lua",
 			"mods/PD2TH/localization/INVENTORY/Throw.lua",
 			"mods/PD2TH/localization_new/menu.lua",
-			"mods/PD2TH/localization_new/heist.lua",
 		}
 
 
