@@ -51,7 +51,6 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/Action_Key.lua",
 			"mods/PD2TH/localization/Bot_Custom.lua",
 			"mods/PD2TH/localization/Crew_AI.lua",
-			"mods/PD2TH/localization/Chat.lua",
 			"mods/PD2TH/localization/Casino.lua",
 			"mods/PD2TH/localization/CrimeSpree.lua",
 			"mods/PD2TH/localization/Dialog.lua",
