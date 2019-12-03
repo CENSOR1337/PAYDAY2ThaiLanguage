@@ -1,0 +1,10 @@
+menu_deck12_1 = "",--Koi Irezumi
+menu_deck12_1_desc = "เมื่อพลังชีวิตต่ำกว่า ##$multiperk;## จะได้รับโบนัสการฟื้นฟูเกราะ ทำไห้เกราะฟื้นไวขึ้น ##$multiperk2;## $NL;$NL; เมื่อได้รับผลของความสามารถพิเศษนี้การฟื้นฟูเลือดจะไม่ส่งผล ",--The lower your health, the more armor recovery rate you have. When your health is below ##$multiperk;##, you will gain up to ##$multiperk2;## armor recovery rate.$NL;$NL;NOTE: Entering this state negates regeneration effects.
+menu_deck12_3 = "",--Hebi Irezumi
+menu_deck12_3_desc = "เมื่อพลังชีวิตต่ำกว่า ##$multiperk;## จะได้รับโบนัสการเคลื่อนที่ ##$multiperk2;##",--The lower your health, the more movement speed you gain. When your health is below ##$multiperk;##, you will gain up to ##$multiperk2;## movement speed.
+menu_deck12_5 = "",--Tora Irezumi
+menu_deck12_5_desc = "เมื่อพลังชีวิตต่ำกว่า ##$multiperk;## จะได้รับโบนัสการฟื้นฟูเกราะ ทำไห้เกราะฟื้นไวขึ้นอีก ##$multiperk2;##",--The lower your health, the more armor recovery rate you have. When your health is below ##$multiperk;##, you will gain up to an additional ##$multiperk2;## armor recovery rate.
+menu_deck12_7 = "",--Ryu Irezumi
+menu_deck12_7_desc = "เมื่อพลังชีวิตต่ำกว่า ##$multiperk;## จะได้รับโบนัสการฟื้นฟูเกราะ ทำไห้เกราะฟื้นไวขึ้นอีก ##$multiperk2;##",--The lower your health, the more armor recovery rate you have. When your health is below ##$multiperk;##, you will gain up to an additional ##$multiperk2;## armor recovery rate.
+menu_deck12_9 = "",--Oni Irezumi
+menu_deck12_9_desc = "ผลการเพิ่มโบนัสจากเพิร์คเด็ดนี้ทั้งหมดจะเริ่มแสดงเมื่อพลังชีวิตต่ำกว่า ##$multiperk;## แทน ##$multiperk2;##.$NL;$NL;โบนัสเมื่ออัพความสามารถพิเศษนี้ตัน: โอกาสที่จะได้รับไอเท็มระดับสูงในการเปิดการ์ด PAYDAY เพิ่มขึ้นอีก ##$multiperk3;##",--All berserker state effects in this perk deck will start at ##$multiperk;## health instead of ##$multiperk2;##.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by ##$multiperk3;##.

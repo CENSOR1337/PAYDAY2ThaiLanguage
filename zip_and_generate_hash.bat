@@ -1,2 +1,2 @@
-python UpdateScript.py "%cd%/PD2TH"
+python UpdateScript.py "%cd%/mods/PD2TH"
 pause
