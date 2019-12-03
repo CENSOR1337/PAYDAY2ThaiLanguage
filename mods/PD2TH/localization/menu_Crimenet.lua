@@ -1,8 +1,8 @@
 cn_menu_num_players_online = "Crime.net/ยูสเซอร์ที่กำลังออนไลน์อยู่ทั้งหมด: $amount; ยูสเซอร์",--Crime.net/users_online: $amount;
 menu_lobby_server_state_in_lobby = "อยู่ในหน้าล็อบบี้",--IN LOBBY
-menu_lobby_server_state_loading = "อยู่ในหน้ากำลังโหลด",--LOADING
-menu_lobby_server_state_in_game = "อยู่ในระหว่างการปฎิบัติการ",--IN GAME
-menu_cn_filter = "กด $BTN_Y; เพื่อดูกระคัดกรอง",--$BTN_Y; Filters
+menu_lobby_server_state_loading = "กำลังโหลด",--LOADING
+menu_lobby_server_state_in_game = "อยู่ในเกม",--IN GAME
+menu_cn_filter = "กด $BTN_Y; เพื่อดูการคัดกรอง",--$BTN_Y; Filters
 menu_cn_friends = "กด $BTN_Y; เพื่อดูรายชื่อของเพื่อน",--$BTN_Y; Show friends
 menu_cn_legend_hide = "กด $BTN_X; เพื่อซ่อนความหมายของไอคอน",--$BTN_X; Hide legend
 menu_cn_legend_show = "กด $BTN_X; เพื่อดูความหมายของไอคอน",--$BTN_X; Show legend

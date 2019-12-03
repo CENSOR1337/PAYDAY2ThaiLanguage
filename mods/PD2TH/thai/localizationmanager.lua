@@ -44,12 +44,14 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization_new/contact/the_elephant/framing_frame.lua",
 			---- The Dentist ----
 			"mods/PD2TH/localization_new/contact/the_dentist/hoxton_breakout.lua",
+			---------------------------- New update ----------------------------
+			"mods/PD2TH/localization_new/menu.lua",
+			"mods/PD2TH/localization_new/heist.lua",
 			---------------------------- old update soon ----------------------------
 			"mods/PD2TH/localization/SafeHouse/Trophies.lua",
 			"mods/PD2TH/localization/SafeHouse/Menu.lua",
 			"mods/PD2TH/localization/achievement.lua",
 			"mods/PD2TH/localization/Action_Key.lua",
-			"mods/PD2TH/localization/Bot_Custom.lua",
 			"mods/PD2TH/localization/Crew_AI.lua",
 			"mods/PD2TH/localization/Casino.lua",
 			"mods/PD2TH/localization/CrimeSpree.lua",
@@ -57,7 +59,6 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/End_Heist.lua",
 			"mods/PD2TH/localization/HUD.lua",
 			"mods/PD2TH/localization/Loadout.lua",
-			"mods/PD2TH/localization/Menu_Contact_Crimenet.lua",
 			"mods/PD2TH/localization/menu_Crimenet.lua",
 			"mods/PD2TH/localization/Menu_inside_lobby.lua",
 			"mods/PD2TH/localization/Menu_Inventory.lua",
@@ -69,7 +70,6 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/Menu_Option_Control_EditKey.lua",
 			"mods/PD2TH/localization/Menu_Option_Network.lua",
 			"mods/PD2TH/localization/Menu_Option_Sound.lua",
-			"mods/PD2TH/localization/Menu_Option_Video.lua",
 			"mods/PD2TH/localization/Menu_Option_Video_Advanced.lua",
 			"mods/PD2TH/localization/No_location.lua",
 			"mods/PD2TH/localization/PAYDAY_CardPick.lua",
@@ -85,7 +85,7 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/INVENTORY/Melee_Weapon.lua",
 			"mods/PD2TH/localization/INVENTORY/Stat.lua",
 			"mods/PD2TH/localization/INVENTORY/Throw.lua",
-			--"mods/PD2TH/localization_new/menu.lua",
+
 		}
 
 
