@@ -44,6 +44,9 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization_new/contact/the_elephant/framing_frame.lua",
 			---- The Dentist ----
 			"mods/PD2TH/localization_new/contact/the_dentist/hoxton_breakout.lua",
+			---- locke ----
+			"mods/PD2TH/localization_new/contact/locke/border_crossing_cook.lua",
+			"mods/PD2TH/localization_new/contact/locke/border_crossing.lua",
 			---------------------------- New update ----------------------------
 			"mods/PD2TH/localization_new/menu.lua",
 			"mods/PD2TH/localization_new/heist.lua",
@@ -84,7 +87,7 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization/INVENTORY/Mask_inventory.lua",
 			"mods/PD2TH/localization/INVENTORY/Melee_Weapon.lua",
 			"mods/PD2TH/localization/INVENTORY/Stat.lua",
-			"mods/PD2TH/localization/INVENTORY/Throw.lua",
+			"mods/PD2TH/localization/INVENTORY/Throw.lua"
 
 		}
 
