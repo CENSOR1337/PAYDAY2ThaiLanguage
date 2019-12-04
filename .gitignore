@@ -17,6 +17,4 @@
 !/mods/
 !/mods/*/
 !/mods/PD2TH/
-!/mods/PD2TH/*
-!/mods/PD2TH/*/*
-!/mods/PD2TH/*/*/*
+!/mods/PD2TH/**
