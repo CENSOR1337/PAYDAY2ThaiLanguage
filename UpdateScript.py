@@ -59,4 +59,4 @@ OutFile.write('",\n\t\t"patchnotes_url": "https://censor1337.github.io/PAYDAY2Th
 import shutil
 zip_output_name = "PAYDAY2_thai_updates_property/PD2TH"
 zip_mod_dir = "mods/"
-shutil.make_archive(zip_output_name, 'zip', zip_mod_dir)
+shutil.make_archive(zip_output_name, 'zip', zip_mod_dir,"PD2TH/")
