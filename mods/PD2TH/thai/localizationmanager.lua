@@ -48,8 +48,18 @@ Hooks:Add("LocalizationManagerPostInit", "LocalizationManagerPostInit_THLoc", fu
 			"mods/PD2TH/localization_new/contact/locke/border_crossing_cook.lua",
 			"mods/PD2TH/localization_new/contact/locke/border_crossing.lua",
 			---------------------------- New update ----------------------------
-			"mods/PD2TH/localization_new/menu.lua",
+			"mods/PD2TH/localization_new/atmospheric_text.lua",
+			"mods/PD2TH/localization_new/blackmarket.lua",
+			"mods/PD2TH/localization_new/challenges.lua",
+			"mods/PD2TH/localization_new/debug.lua",
 			"mods/PD2TH/localization_new/heist.lua",
+			"mods/PD2TH/localization_new/hud.lua",
+			"mods/PD2TH/localization_new/menu.lua",
+			"mods/PD2TH/localization_new/savefile.lua",
+			--"mods/PD2TH/localization_new/subtitles.lua",
+			"mods/PD2TH/localization_new/system_text.lua",
+			"mods/PD2TH/localization_new/systemmenu.lua",
+
 			---------------------------- old update soon ----------------------------
 			"mods/PD2TH/localization/SafeHouse/Trophies.lua",
 			"mods/PD2TH/localization/SafeHouse/Menu.lua",

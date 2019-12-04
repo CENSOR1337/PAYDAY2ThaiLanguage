@@ -1,3 +1,9 @@
+--[[ This string will cause you an error
+hud_action_taking_??? = "",--Picking up The Dentist's loot
+hud_carry_??? = "ไอเทมของ The Dentist's",--The Dentist's loot
+hud_take_??? = "",--Hold $BTN_INTERACT; to take The Dentist's loot
+]]--
+
 hud_h_alex_stage3_mission2 = "",--Get to the escape vehicle
 hud_action_use_files = "",--Passing files
 hud_heist_hox1_8 = "",--The cops interrupted the hacking. Get it going again.
@@ -1032,7 +1038,6 @@ hud_safehouse_tut2_hl = "",--Wait for Bain to call you
 hud_heist_cag1_2 = "",--Investigate the storage room, it's supposed to have the car keys. Let's see what security they have.
 hud_heist_fish_10 = "",--xxx
 hud_heist_wwh_06a = "",--Time to leave. Gather on the boat.
-hud_action_taking_??? = "",--Picking up The Dentist's loot
 hud_heist_fish_03_hl = "",--xxx
 hud_action_pkuing_knife = "",--Taking knife
 hint_teammate_helpedup = "",--$TEAMMATE; has been helped up by $HELPER;!
@@ -1775,7 +1780,6 @@ hud_heist_jerry02_01 = "",--Locate the money pallet that has landed somewhere in
 hud_heist_brb_08 = "",--Disable the security to open up the shutters!
 hud_int_hold_grab_the_bag = "",--Hold $BTN_INTERACT; to grab the bag
 heist_help_hl_briefing = "",--Welcome to my world, to my prison! I'll make you feel right at home. But you won't like the food - or anything else!
-hud_carry_??? = "ไอเทมของ The Dentist's",--The Dentist's loot
 hud_heist_cane_mission8 = "",--All elves are dead! Time to leave!
 hint_melee_hit = "",--You can melee hit the hostage
 hud_gage_yellow_bull_title = "",--Yellow Bull assignment completed!
@@ -3597,7 +3601,6 @@ hud_starting_heist = "",--Preparing mask
 hud_start_drill = "",--Hold $BTN_INTERACT; to start the BFD
 hud_stats_bags_secured = "",--BAGS SECURED
 hud_stop_drill = "",--Hold $BTN_INTERACT; to stop the BFD
-hud_take_??? = "",--Hold $BTN_INTERACT; to take The Dentist's loot
 hud_take_hook = "",--Hold $BTN_INTERACT; to take the hook
 hud_take_sleeping_gas = "",--Hold $BTN_INTERACT; to pick up the sleeping gas
 hud_take_usb_key_data = "",--Press $BTN_INTERACT; to take the USB stick
