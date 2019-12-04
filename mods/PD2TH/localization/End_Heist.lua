@@ -56,7 +56,6 @@ menu_es_stats_gage_assignment = "แพคเกจ",--Packages
 menu_cash_income = "เงินเข้า",--Income
 menu_cash_job = "จำนวนค่าจ้าง: $money;",--Contract pay: $money;
 menu_es_alive_players_bonus = "โบนัสผู้เล่นที่เหลือรอด",--Crew alive bonus
-hud_instant_cash = "เงินสด",--Instant cash
 menu_risk = "ความยาก:",--Risk:
 cash_sign = "",--$
 menu_es_level_progress = "ความคืบหน้าของเลเวล",--Level progress
