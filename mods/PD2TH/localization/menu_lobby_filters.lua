@@ -36,4 +36,3 @@ menu_cs_ground_floor = "ชั้นแนวเดียวกับดิน",
 menu_cs_basement = "ชั้นใต้ดิน",--
 menu_gamemode_spree = "",--
 menu_spree_difference_filter = "ระดับความยากของ Crime Spree",--
-menu_off = "ปิดการใช้งาน",--
